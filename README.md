@@ -1,1 +1,1 @@
-# quiz-wiz-bot
+# telegram-bot
